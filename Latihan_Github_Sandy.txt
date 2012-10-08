@@ -1,0 +1,14 @@
+memindahkan folder k server
+-  cd nama folder
+-lalu masuk latihan-github
+-lalu git status (utk melihat perubahan )
+-git add(masuk ke revo local) masukan nama folder
+-add.(untk semua)
+setelah itu tulis git status lagi
+-git commit -m "menambahkan 1 file"(utk menaruh k server boongan)disebut juga sebagai perantara
+-lalu git push(untuk memindahkan servr local k git hub)
+
+git pull(untuk mengambil file terbaru dari pusat (server) )
+
+fork(untuk copy file dari orang lain) klik fork
+lalu searching truss pilih file yg mw kita copy truss buka di github kita sendiri)
